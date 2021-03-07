@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋, I'm Gokul Nagarajan
 
-<!--
-**Gokulraj95/Gokulraj95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer | Data Analytics & Deep Learning
+🔭 I’m currently working on Tensor Flow projects
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Reinforcement learning and Computer vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on Deep Learning and Computer vision Projects
+
+🤝 I’m looking for opportunities in Data Analyst and Machine learning
+
+📝 I regularly write articles on Medium
+
+💬 Ask me about DL,OpenCV,Machine learning
+
+📫 How to reach me gklnagarajan@gmail.com
+
+📄 Know about my experiences Resume
+
+Connect with me:
+https://www.linkedin.com/in/gokul-nagarajan-54a328126/
