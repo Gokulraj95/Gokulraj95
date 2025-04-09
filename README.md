@@ -1,8 +1,6 @@
 Hi 👋, I'm Gokul Nagarajan
 
-Full Stack Developer | React & Typescript
-
-🔭 I’m currently working on Animated projects
+Front End Developer | React & Typescript
 
 🌱 I’m currently learning React & Redux
 
