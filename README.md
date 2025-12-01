@@ -1,6 +1,6 @@
 Hi 👋, I'm Gokul Nagarajan
 
-Front End Developer | React & Typescript
+FullStack Developer | Java & PLSQL & React & Typescript
 
 🌱 I’m currently learning React & Redux
 
